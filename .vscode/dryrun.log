@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/leonardo/Documentos/Codigos/C-cpp/Estrutura_de_dados/Meus_codigos'
-make: Leaving directory '/home/leonardo/Documentos/Codigos/C-cpp/Estrutura_de_dados/Meus_codigos'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
